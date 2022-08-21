@@ -33,10 +33,11 @@ Repo to hold information about how I've set up my keyboard
 
 ## My setup
 
-### Keyboard
-- Dygma Raise
+### My Keyboard layers
+- Dygma Raise w/ Bazecore software
 
 ### Supplementary software configurations
+
 #### Karabiner elements
 - CAPS + hjkl for vim bindings
 - command + c,x,v -> ctrl + c,x,v (windows shortcuts on mac
@@ -46,8 +47,7 @@ Repo to hold information about how I've set up my keyboard
 - remapping of hotkeys to hyperkey + *
 - vim bindings plugin
 
-### My Keyboard layers
-
+#### Chrome vimium plugin
 
 
 ## Things that could still use improvement
