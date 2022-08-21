@@ -3,8 +3,8 @@ Repo to hold information about how I've set up my keyboard
 
 ## My common use cases
 - Work in Google Docs a lot
-- Program in Pycharm
-- Common interfaces:
+- Code in Pycharm IDE
+- Work across different interfaces:
   - MacOS w/ programmable keyboard (main use case)
   - MacOS w/ laptop keyboard (when in meetings or traveling)
   - Windows w/ programmable keyboard (when on personal computer)
@@ -26,7 +26,10 @@ Repo to hold information about how I've set up my keyboard
    - NOT switching to another layout like Dvorak or Colemak
 
 ### Transferability between my different interfaces
-- vim key bindings for arrow keys are transferrable to vim
+- use vim key bindings across as many things as possible:
+  - for arrow keys w/ CAPS to get into layer
+  - vimium chrome extension
+  - vim plugin in PyCharm IDE
 - karabiner elements used on mac for reprogrammability when only using keyboard on laptop
 - nearly identical, but different layers tuned for mac and windows to have the same shortcuts available in the same locations across both OSes
 - Dygma raise keyboard still uses standard staggered layout rather than ortholinear or columnar which allows me to easily switch to my laptop keyboard
@@ -35,6 +38,11 @@ Repo to hold information about how I've set up my keyboard
 
 ### My Keyboard layers
 - Dygma Raise w/ Bazecore software
+
+Base/default layers (slighty different ones for mac and windows)
+Vim cursor movement layer
+Window movement / management layer
+Pycharm shortcuts layer
 
 ### Supplementary software configurations
 
