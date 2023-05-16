@@ -50,13 +50,12 @@ Pycharm shortcuts layer
 #### Karabiner elements
 - CAPS + hjkl for vim bindings
 - command + c,x,v -> ctrl + c,x,v (windows shortcuts on mac
-#### alt-tab software on MacOS
 
 #### Pycharm
 - remapping of hotkeys to hyperkey + *
 - vim bindings plugin
 
-#### Chrome vimium plugin
-
+#### AutoHotKey
+For Windows key remapping
 
 ## Things that could still use improvement
