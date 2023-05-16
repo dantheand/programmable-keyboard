@@ -29,9 +29,9 @@ Repo to hold information about how I've set up my keyboard
 ### Transferability between my different interfaces
 - use vim key bindings across as many things as possible:
   - for arrow keys w/ CAPS to get into layer
-  - vimium chrome extension
   - vim plugin in PyCharm IDE
-- karabiner elements used on mac for reprogrammability when only using keyboard on laptop
+- *On Mac*: karabiner elements to reprogram keys when using laptop keyboard alone
+- *On Windows*: autohotkey to reprogram keys when using laptop keyboard alone
 - nearly identical, but different layers tuned for mac and windows to have the same shortcuts available in the same locations across both OSes
 - Dygma raise keyboard still uses standard staggered layout rather than ortholinear or columnar which allows me to easily switch to my laptop keyboard
 
