@@ -1,10 +1,10 @@
 # programmable-keyboard
-Repo to hold information about how I've set up my keyboard
+Repo to hold information about my custom keyboard settings.
 
 ## My common use cases
 - Work in Google Docs a lot
 - Code in Pycharm IDE
-- Work across different interfaces:
+- Work with several different interfaces:
   - MacOS w/ programmable keyboard (main use case)
   - MacOS w/ laptop keyboard (when in meetings or traveling)
   - Windows w/ programmable keyboard (when on personal computer)
@@ -47,15 +47,15 @@ Pycharm shortcuts layer
 
 ### Supplementary software configurations
 
-#### Karabiner elements
-- CAPS + hjkl for vim bindings
-- command + c,x,v -> ctrl + c,x,v (windows shortcuts on mac
-
 #### Pycharm
 - remapping of hotkeys to hyperkey + *
 - vim bindings plugin
 
-#### AutoHotKey
-For Windows key remapping
+#### Karabiner elements (Mac keyboard remapping)
+- CAPS + hjkl for vim bindings
+- command + c,x,v -> ctrl + c,x,v (windows shortcuts on mac
+
+#### AutoHotKey (Windows keyboard remapping)
+- remapp
 
 ## Things that could still use improvement
