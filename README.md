@@ -8,6 +8,7 @@ Repo to hold information about how I've set up my keyboard
   - MacOS w/ programmable keyboard (main use case)
   - MacOS w/ laptop keyboard (when in meetings or traveling)
   - Windows w/ programmable keyboard (when on personal computer)
+  - Windows w/ laptop keyboard (when lounging around on personal computer)
 
 ## Guiding Principles
 
