@@ -52,10 +52,13 @@ Pycharm shortcuts layer
 - vim bindings plugin
 
 #### Karabiner elements (Mac keyboard remapping)
+- CAPS to Esc
 - CAPS + hjkl for vim bindings
 - command + c,x,v -> ctrl + c,x,v (windows shortcuts on mac
 
 #### AutoHotKey (Windows keyboard remapping)
-- remapp
+- CAPS to Esc
+- CAPS + hjkl for vim bindings
 
 ## Things that could still use improvement
+- this repo needs more details
