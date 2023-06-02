@@ -42,9 +42,18 @@ Repo to hold information about my custom keyboard settings.
 
 #### Mac Layers
 
-##### Home Layer
+##### Layer 1: Home Layer
+Notable remaps:
+- Right spacebar remapped to backspace
+- Far right spacebar remapped to enter
+- Lower-right of left cluster remapped to command to simulate Macbook laptop key location
+- Quick press of Capslock is Esc
+
+Notable layer switches:
+- Holding down Capslock switches to (Layer 2: Vim Movement Anywhere Layer) 
 ![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/6d33707f-6c99-4907-8dbb-7efabd23a8f5)
 
+##### Layer 2: Vim Movement Anywhere Layer
 
 #### Windows Layers
 
