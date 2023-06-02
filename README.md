@@ -40,6 +40,14 @@ Repo to hold information about my custom keyboard settings.
 ### My Keyboard layers
 - Dygma Raise w/ Bazecore software
 
+#### Mac Layers
+
+##### Home Layer
+![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/6d33707f-6c99-4907-8dbb-7efabd23a8f5)
+
+
+#### Windows Layers
+
 Base/default layers (slighty different ones for mac and windows)
 Vim cursor movement layer
 Window movement / management layer
