@@ -45,7 +45,7 @@ I have four basic layers that I switch between:
 - **Handy Shortcuts**: layer for random useful shortcuts; accessed by holding down a lower-left left spacebar cluster key
 - **Spacebar Shortcuts**: layer for more shortcuts; accessed by holding down the spacebar
 
-In the setup below, there two copies of each due to the fact that I have to have some slight differences between Mac and Windows.  
+In the setup below, there two copies of each due to the fact that I have to have some slight differences between Mac and Windows. Note: they're kind of out of order simply for historical reasons.
 
 #### Mac Layers
 
