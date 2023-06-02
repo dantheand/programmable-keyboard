@@ -74,7 +74,7 @@ This layer is meant to simulate some basic, useful vim movements no matter what 
 ##### Layer 3: Mac Handy Shortcuts
 This is currently just one common shortcut I use: F is screenshot.
 
-![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/2c9a388c-f903-43c4-bd4c-79cc1ce9d508)
+![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/2f1ab89a-3a10-4355-8af0-2709abde41ed)
 
 ##### Layer 6: Mac Spacebar Shortcuts
 This is my workhorse shortcut layer. It is accessed by holding down spacebar from the home layer. A couple of keys are mapped to standard OS shortcuts, but most are used in conjunction with PyCharm-defined custom keyboard shortcuts. Hyper (Shift, Ctrl, Alt, and OS key simultaneously pressed) key is used as a modifier to prevent clashes with any existing PyCharm shortcuts.
