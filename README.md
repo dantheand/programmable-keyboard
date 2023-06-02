@@ -38,7 +38,14 @@ Repo to hold information about my custom keyboard settings.
 ## My setup
 
 ### My Keyboard layers
-- Dygma Raise w/ Bazecore software
+
+I have four basic layers that I switch between:
+- **Home Layer**: base layer that I spend the most time in
+- **Vim Movement Anywhere Layer**: A layer with some simple vim-style movement keys that I can use in any application; accessed by holding down Capslock 
+- **Handy Shortcuts**: layer for random useful shortcuts; accessed by holding down a lower-left left spacebar cluster key
+- **Spacebar Shortcuts**: layer for more shortcuts; accessed by holding down the spacebar
+
+In the setup below, there two copies of each due to the fact that I have to have some slight differences between Mac and Windows.  
 
 #### Mac Layers
 
@@ -93,6 +100,9 @@ This is the base layer I stay in most of the time when using my Windows computer
 
 ![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/14f82637-93a9-4fe3-be46-fc735ad67e46)
 
+##### Layer 2: Vim Movement Anywhere Layer (again)
+The same layer is reused in Windows.
+
 ##### Layer 9: Windows Handy Shortcuts
 Like its Mac mirror, this is just a screenshot shortcut.
 
@@ -103,15 +113,11 @@ This is similar in functionality to Mac equivalent [Layer 6: Mac Spacebar Shortc
 
 ![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/1ad120dd-7193-4322-8b89-4c3db44ecc8b)
 
-Base/default layers (slighty different ones for mac and windows)
-Vim cursor movement layer
-Window movement / management layer
-Pycharm shortcuts layer
 
 ### Supplementary software configurations
 
 #### Pycharm
-- remapping of hotkeys to hyperkey + *
+- remapping of various hotkeys to hyperkey + *
 - vim bindings plugin
 
 #### Karabiner elements (Mac keyboard remapping)
