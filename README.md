@@ -21,10 +21,10 @@ Repo to hold information about my custom keyboard settings.
 
 ### Make it easy to learn and add new shortcuts
 - Should be able to maintain a decent productivity
-   - gradually introduce new keys and shortcuts rather than all at once
-   - utilize per-key coloration to remind you as you're learning a new set of shortcuts/layers
-   - if moving a key (like backspace to the thumb), then disable the default key to force yourself to learn faster
-   - NOT switching to another layout like Dvorak or Colemak
+ - gradually introduce new keys and shortcuts rather than all at once
+ - utilize per-key coloration to remind you as you're learning a new set of shortcuts/layers
+ - if moving a key (like backspace to the thumb), then disable the default key to force yourself to learn faster
+ - NOT switching to another layout like Dvorak or Colemak
 
 ### Should be transferable between my different interfaces
 - use vim key bindings across as many things as possible:
