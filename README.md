@@ -50,7 +50,7 @@ Notable remaps:
 - Quick press of Capslock is Esc
 
 Notable layer switches:
-- Holding down Capslock switches to (Layer 2: Vim Movement Anywhere Layer) 
+- Holding down Capslock switches to [Layer 2: Vim Movement Anywhere Layer](#layer-2-vim-movement-anywhere-layer) 
 ![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/6d33707f-6c99-4907-8dbb-7efabd23a8f5)
 
 ##### Layer 2: Vim Movement Anywhere Layer
