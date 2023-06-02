@@ -21,10 +21,9 @@ Repo to hold information about my custom keyboard settings.
 
 ### Make it easy to learn and add new shortcuts
 - Should be able to maintain a decent productivity
- - gradually introduce new keys and shortcuts rather than all at once
- - utilize per-key coloration to remind you as you're learning a new set of shortcuts/layers
- - if moving a key (like backspace to the thumb), then disable the default key to force yourself to learn faster
- - NOT switching to another layout like Dvorak or Colemak
+- Gradually introduce new keys and shortcuts rather than all at once
+- Utilize per-key coloration to remind you as you're learning a new set of shortcuts/layers
+- If moving a key (like backspace to the thumb), then disable the default key to force yourself to learn faster
 
 ### Should be transferable between my different interfaces
 - use vim key bindings across as many things as possible:
@@ -33,7 +32,6 @@ Repo to hold information about my custom keyboard settings.
 - *On Mac*: karabiner elements to reprogram keys when using laptop keyboard alone
 - *On Windows*: autohotkey to reprogram keys when using laptop keyboard alone
 - nearly identical, but different layers tuned for mac and windows to have the same shortcuts available in the same locations across both OSes
-- Dygma raise keyboard still uses standard staggered layout rather than ortholinear or columnar which allows me to easily switch to my laptop keyboard
 
 ## My setup
 
@@ -67,7 +65,7 @@ Notable layer switches:
 ![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/6d33707f-6c99-4907-8dbb-7efabd23a8f5)
 
 ##### Layer 2: Vim Movement Anywhere Layer
-This layer is meant to simulate some basic, useful vim movements no matter what application I am in. This is especially useful for editing docs in Google Docs, which I do frequently. It is accessed by pressing and holding Capslock in my home layers.
+This layer is meant to simulate some basic, useful vim movements no matter what application I am in. This is especially useful for moving around Google Docs, which I do frequently. It is accessed by pressing and holding Capslock in my home layers.
 
 ![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/4d33e1b8-862d-4396-8132-7ba6b8c57b96)
 
@@ -78,7 +76,7 @@ This is currently just one common shortcut I use: F is screenshot.
 
 ##### Layer 6: Mac Spacebar Shortcuts
 This is my workhorse shortcut layer. It is accessed by holding down spacebar from the home layer. A couple of keys are mapped to standard OS shortcuts, but most are used in conjunction with PyCharm-defined custom keyboard shortcuts. Hyper (Shift, Ctrl, Alt, and OS key simultaneously pressed) key is used as a modifier to prevent clashes with any existing PyCharm shortcuts.
-Keys in this section are best grouped by functionality.
+Keys in this section are grouped by functionality.
 
 OS Navigation:
 - D and F are to switch left and right between desktops
@@ -118,6 +116,8 @@ This is similar in functionality to Mac equivalent [Layer 6: Mac Spacebar Shortc
 
 #### Pycharm
 - remapping of various hotkeys to hyperkey + *
+    - move to debugger, move to terminal, execute code, toggle breakpoints, etc
+    - use Meh and Hyper key shortcuts to prevent clashes with existing shortcuts  
 - vim bindings plugin
 
 #### Karabiner elements (Mac keyboard remapping)
