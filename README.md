@@ -42,7 +42,7 @@ Repo to hold information about my custom keyboard settings.
 
 #### Mac Layers
 
-##### Layer 1: Home Layer
+##### Layer 1: Mac Home Layer
 This is the base layer I stay in most of the time when using my Macbook.
 
 Notable remaps:
@@ -55,7 +55,7 @@ Notable layer switches:
 - Holding down Capslock switches to [Layer 2: Vim Movement Anywhere Layer](#layer-2-vim-movement-anywhere-layer)
 - Holding down the lower-left of the left spacebar cluster keys switches to [Layer 3: Mac Handy Shortcuts](#layer-3-mac-handy-shortcuts) 
 - Holding down spacebar switches to my beefy [Layer 6: Mac Spacebar Shortcuts](#layer-6-mac-spacebar-shortcuts)
-- Pressing right OS key switches to [Layer 8: Windows Home Layer](#layer-8-windows-home-layer)
+- Pressing right OS key switches to [Layer 8: Windows Home Layer](#layer-8-windows-home-layer) (and vice versa once in that layer)
 
 ![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/6d33707f-6c99-4907-8dbb-7efabd23a8f5)
 
@@ -87,6 +87,21 @@ See section below (unfinished)
 
 
 #### Windows Layers
+
+##### Layer 8: Windows Home Layer
+This is the base layer I stay in most of the time when using my Windows computer. This layer is largely the same as [Layer 1: Mac Home Layer](#layer-1-mac-home-layer), except it provides entry points into the window-specific layers. Also I recolored some keys in the bottom right so I can know at a glance whether I'm in the Mac Home Layer or the Windows Home Layer. Right OS key switches between Mac and Windows Home Layers.
+
+![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/14f82637-93a9-4fe3-be46-fc735ad67e46)
+
+##### Layer 9: Windows Handy Shortcuts
+Like its Mac mirror, this is just a screenshot shortcut.
+
+![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/5e661ccc-a6a4-456c-908c-388fb1332d8a)
+
+##### Layer 4: Windows Spacebar Shortcuts
+This is similar in functionality to Mac equivalent [Layer 6: Mac Spacebar Shortcuts](#layer-6-mac-spacebar-shortcuts), but doesn't have all the PyCharm and Google Docs shortcuts built out because this is my personal computer.
+
+![image](https://github.com/dantheand/programmable-keyboard/assets/16441200/1ad120dd-7193-4322-8b89-4c3db44ecc8b)
 
 Base/default layers (slighty different ones for mac and windows)
 Vim cursor movement layer
