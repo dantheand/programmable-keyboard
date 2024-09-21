@@ -129,5 +129,3 @@ This is similar in functionality to Mac equivalent [Layer 6: Mac Spacebar Shortc
 - CAPS to Esc
 - CAPS + hjkl for vim bindings
 
-## Things that could still use improvement
-- this repo needs more details
